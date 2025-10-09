@@ -45,7 +45,7 @@ https://coderprog.com/adobe-photoshop-book-photographers-2nd/
 
 1. 采用 marker 工具从 pdf 转 markdown
 
-    转换方式参考我的博客文章： https://skyao.io/post/202408-marker-pdf-to-markdown/
+    转换方式参考我的博客文章： https://skyao.net/post/202408-marker-pdf-to-markdown/
 
 2. 然后人工校对 markdown 格式和排版
 3. 通过 AI 进行翻译
